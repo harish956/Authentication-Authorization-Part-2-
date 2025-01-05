@@ -1,5 +1,10 @@
 Check at https://NxtTrendZApp01.ccbp.tech
 
+UserName:rahul
+password : rahul@2021
+
+
+
 
 
 In this project, let's build **Nxt Trendz** app with authentication by applying the concepts we have learned till now.
